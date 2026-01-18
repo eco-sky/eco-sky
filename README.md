@@ -1,16 +1,17 @@
-## Hi there 👋
+## ♡✧ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏꜰɪʟᴇ! ✧♡ 
 
-<!--
-**eco-sky/eco-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Environmental scientist
+  
+Interested in:
+- 🐟 Endangered salmon species
+- 🥀 Pesticide & contaminant impacts
+- 🏴‍☠️ Toxicology (endocrine system)
+  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-EE2C2C?style=for-the-badge&logo=ArcGIS&logoColor=white)
+![Google Earth Pro](https://img.shields.io/badge/Google_Earth_Pro-4285F4?style=for-the-badge&logo=Google-Earth&logoColor=white)
 
-Here are some ideas to get you started:
+<img width="3999" height="1251" alt="BANNER" src="https://github.com/user-attachments/assets/c641498d-514e-4f30-9360-2da955ff300f" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
