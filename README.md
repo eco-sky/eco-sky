@@ -1,7 +1,5 @@
-## ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏꜰɪʟᴇ! 
+## 🔭 Environmental scientist
 
-🔭 Environmental scientist
-  
 Interested in:
 - 🐟 Endangered salmon species
 - 🥀 Pesticide & contaminant impacts
