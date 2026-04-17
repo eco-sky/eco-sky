@@ -1,4 +1,4 @@
-## 🔭 Environmental scientist
+## 🔭 Environmentalist
 
 Interested in:
 - 🐟 Endangered salmon species
