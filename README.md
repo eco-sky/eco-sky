@@ -1,6 +1,6 @@
 ## 🔭 Environmentalist
 
-Check out my environmental science capstone project: https://summit.sfu.ca/item/40389
+Check out my environmental science capstone project during my undergrad: https://summit.sfu.ca/item/40389
 
 Interested in:
 - 🐟 Endangered salmon species
