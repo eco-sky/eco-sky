@@ -3,7 +3,7 @@
 Interested in:
 - 🐟 Endangered salmon species
 - 🥀 Pesticide & contaminant impacts
-- 🏴‍☠️ Toxicology (endocrine system)
+- 🏴‍☠️ Toxicology
   
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white)
