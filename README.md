@@ -15,6 +15,4 @@ Interested in:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-<img width="3999" height="1251" alt="BANNER" src="https://github.com/user-attachments/assets/c641498d-514e-4f30-9360-2da955ff300f" />
-
-
+<img width="1084" height="304" alt="Screenshot 2026-05-31 123124" src="https://github.com/user-attachments/assets/15413502-bed2-4ad4-8cf7-ba2eed0f95b4" />
