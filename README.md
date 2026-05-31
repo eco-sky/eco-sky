@@ -1,5 +1,7 @@
 ## 🔭 Environmentalist
 
+Check out my environmental capstone project: https://summit.sfu.ca/item/40389
+
 Interested in:
 - 🐟 Endangered salmon species
 - 🥀 Pesticide & contaminant impacts
