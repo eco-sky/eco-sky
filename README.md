@@ -1,6 +1,6 @@
 ## 🔭 Environmentalist
 
-Environmental science coursework, data analysis, and personal coding projects
+Environmental science coursework, data analysis, and personal coding projects.
 
 Check out my environmental science capstone project during my undergrad: https://summit.sfu.ca/item/40389
 
