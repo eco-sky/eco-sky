@@ -1,4 +1,4 @@
-## 🔭 Environmentalist
+## 🔭 Environmental Analyst
 
 Environmental science coursework, data analysis, and personal coding projects.
 
