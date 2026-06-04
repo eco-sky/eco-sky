@@ -4,10 +4,11 @@ I share environmental science coursework, data analysis, and personal coding pro
 
 Check out my environmental science capstone project during my undergrad: https://summit.sfu.ca/item/40389
 
-Interested in research related to:
+Research interests:
 - 🐟 Endangered species
 - 🥀 Pesticide & contaminant impacts
 - 🏴‍☠️ Toxicology
+- 🚜 Agriculture
   
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white)
