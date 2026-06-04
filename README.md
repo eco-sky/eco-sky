@@ -17,7 +17,6 @@ Research interests:
 ![JMP](https://img.shields.io/badge/JMP-005DAA?style=for-the-badge&logo=databricks&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Environmental Science](https://img.shields.io/badge/Environmental%20Science-228B22?style=for-the-badge)
-![Freshwater Ecology](https://img.shields.io/badge/Freshwater%20Ecology-4682B4?style=for-the-badge)
 
 
 <img width="1721" height="491" alt="image" src="https://github.com/user-attachments/assets/456704cb-7474-4e25-b35b-15033cea215d" />
