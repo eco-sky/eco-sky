@@ -20,3 +20,7 @@ Research interests:
 
 
 <img width="1721" height="491" alt="image" src="https://github.com/user-attachments/assets/456704cb-7474-4e25-b35b-15033cea215d" />
+
+
+
+![spin-world](https://media1.tenor.com/m/LWHfISDLLH4AAAAC/spin-world.gif)
