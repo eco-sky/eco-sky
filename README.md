@@ -16,7 +16,6 @@ Check out my environmental science capstone project during my undergrad: https:/
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-EE2C2C?style=for-the-badge&logo=ArcGIS&logoColor=white)
 ![Google Earth Pro](https://img.shields.io/badge/Google_Earth_Pro-4285F4?style=for-the-badge&logo=Google-Earth&logoColor=white)
 ![JMP](https://img.shields.io/badge/JMP-005DAA?style=for-the-badge&logo=databricks&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
