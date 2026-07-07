@@ -22,8 +22,7 @@ Check out my environmental science capstone project during my undergrad: https:/
 
 
 ## 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=eco-sky&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=eco-sky&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=eco-sky&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <img width="1721" height="491" alt="image" src="https://github.com/user-attachments/assets/456704cb-7474-4e25-b35b-15033cea215d" />
