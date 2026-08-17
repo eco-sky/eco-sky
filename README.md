@@ -18,7 +18,6 @@ Check out my environmental science capstone project during my undergrad: https:/
 ![JMP](https://img.shields.io/badge/JMP-005DAA?style=for-the-badge&logo=databricks&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 ## 📊 GitHub Stats:
