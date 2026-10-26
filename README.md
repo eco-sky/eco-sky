@@ -1,4 +1,4 @@
-# 🔭 Environmental Analyst
+# 🔭 Environmental Professional in-Training (EPt) Student at ECO Canada
 
 I share environmental science coursework, data analysis, and personal coding projects.
 
